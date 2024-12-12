@@ -1,0 +1,7 @@
+E:\PROJECTS\PartialClass\bin\Debug\PartialClass.exe.config
+E:\PROJECTS\PartialClass\bin\Debug\PartialClass.exe
+E:\PROJECTS\PartialClass\bin\Debug\PartialClass.pdb
+E:\PROJECTS\PartialClass\obj\Debug\PartialClass.csproj.AssemblyReference.cache
+E:\PROJECTS\PartialClass\obj\Debug\PartialClass.csproj.CoreCompileInputs.cache
+E:\PROJECTS\PartialClass\obj\Debug\PartialClass.exe
+E:\PROJECTS\PartialClass\obj\Debug\PartialClass.pdb
